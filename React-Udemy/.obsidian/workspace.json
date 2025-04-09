@@ -135,6 +135,20 @@
             }
           },
           {
+            "id": "295da0946f00a67d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "4f041457984b52b2",
             "type": "leaf",
             "state": {
@@ -149,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "464678a9d1022325",
@@ -260,11 +274,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -288,12 +303,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -324,9 +340,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6869c48e234f5b0",
+  "active": "295da0946f00a67d",
   "lastOpenFiles": [
     "(S3)(14)React project setup CRA vs Vite.md",
+    "Untitled.md",
     "(S3)(13)React core vs rendering layer.md",
     "tooling.md",
     "(S3)(9) Why we avoid Vanilla JavaScript in large projects.md",
@@ -351,7 +368,6 @@
     "reactive.md",
     "React.md",
     "props.md",
-    "prone to bugs.md",
     "global",
     "03 - A first look at React"
   ]
