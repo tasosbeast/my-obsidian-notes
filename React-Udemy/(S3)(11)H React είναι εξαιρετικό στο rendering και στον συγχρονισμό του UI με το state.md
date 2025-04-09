@@ -1,8 +1,8 @@
-**[[React]]** is especially well-suited for two core responsibilities in [[frontend]] development:
+Η **[[React]]** είναι ιδιαίτερα κατάλληλη για δύο βασικές λειτουργίες στο [[frontend]] development:
 
-1. **Rendering [[components]]** on a [[webpage]] based on their current [[state]] and [[props]] — allowing dynamic, [[components|component-based]] UIs.
+1. **Rendering των [[components]] σε μια [[webpage|ιστοσελίδα]]** με βάση το τρέχον [[state]] και τα [[props]] — επιτρέποντας τη δημιουργία δυναμικών, [[components|component-based]] UI.
     
-2. **Keeping the [[User Interface (UI)]] in sync** with [[state]] by automatically re-rendering [[components]] when the [[state]] changes.
+2. **Διατήρηση του [[User Interface (UI)|UI]] συγχρονισμένο** με το [[state]], επαναποδίδοντας αυτόματα τα [[components]] όταν αλλάζει το [[state]].
     
 
-This [[reactive]] approach eliminates the need for manual [[DOM manipulation]], leading to a more [[predictable]], [[Συντήρηση|maintainable]], and efficient UI development process.
+Αυτή η [[reactive]] προσέγγιση εξαλείφει την ανάγκη για χειροκίνητο [[DOM manipulation]], οδηγώντας σε μια πιο προβλέψιμη, [[Συντήρηση|συντηρήσιμη]] και αποδοτική διαδικασία ανάπτυξης UI

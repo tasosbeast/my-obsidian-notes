@@ -154,12 +154,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(S3)(11)H React είναι εξαιρετικό στο rendering και στον συγχρονισμό του UI με το state.md",
+                "file": "(S3)(11)React origin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(S3)(11)H React είναι εξαιρετικό στο rendering και στον συγχρονισμό του UI με το state"
+              "title": "(S3)(11)React origin"
             }
           },
           {
@@ -288,12 +288,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(S3)(11)H React είναι εξαιρετικό στο rendering και στον συγχρονισμό του UI με το state.md",
+                "file": "(S3)(11)React origin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from (S3)(11)H React είναι εξαιρετικό στο rendering και στον συγχρονισμό του UI με το state"
+              "title": "Outgoing links from (S3)(11)React origin"
             }
           },
           {
@@ -317,13 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(S3)(11)H React είναι εξαιρετικό στο rendering και στον συγχρονισμό του UI με το state.md",
+                "file": "(S3)(11)React origin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (S3)(11)H React είναι εξαιρετικό στο rendering και στον συγχρονισμό του UI με το state"
+              "title": "Outline of (S3)(11)React origin"
             }
           },
           {
@@ -356,6 +356,7 @@
   },
   "active": "71aeafa751b5008e",
   "lastOpenFiles": [
+    "(S3)(11)H React είναι εξαιρετικό στο rendering και στον συγχρονισμό του UI με το state.md",
     "(S3)(11)Data και State είναι το ίδιο πράγμα στην React.md",
     "(S3)(13)React core vs rendering layer.md",
     "(S3)(9) Η React αυτοματοποιεί τις ενημερώσεις του UI βάσει αλλαγών στα δεδομένα.md",
@@ -376,7 +377,6 @@
     "(S3)(12)React Development Environment Setup.md",
     "(S3)(11)React reacts to state changes.md",
     "(S3)(11)React origin.md",
-    "(S3)(11)H React είναι εξαιρετικό στο rendering και στον συγχρονισμό του UI με το state.md",
     "methods.md",
     "internal state.md",
     "reusability.md",
