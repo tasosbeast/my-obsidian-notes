@@ -1,5 +1,5 @@
-**Jordan Walke** is a software engineer best known as the **creator of [[React]]**, the popular [[JavaScript]] [[libraries|library]] for building user interfaces. While working at Facebook in **2011**, he developed [[React]] to address issues related to [[complex]] UI rendering and [[state]] management.
+Η **[[React]]** δημιουργήθηκε το **2011** από τον **[[Jordan Walke]]**, software engineer στο Facebook. Ανέπτυξε τη [[React]] για να αντιμετωπίσει τις προκλήσεις στην κατασκευή δυναμικών και συντηρήσιμων user interfaces μέσα στο πολύπλοκο [[codebase]] του Facebook.
 
-His work introduced core concepts like the [[Virtual DOM]] and [[components|component-based]] architecture, which have since become foundational in modern [[frontend]] development. [[React]] was later open-sourced in 2013 and quickly became one of the most widely used tools in the web development ecosystem.
+Η [[React]] χρησιμοποιήθηκε για πρώτη φορά στο newsfeed του Facebook το 2011 και στη συνέχεια [[open-source|διατέθηκε ως open-source]] το **2013**, γνωρίζοντας ταχύτατη αποδοχή χάρη στην αρχιτεκτονική βασισμένη σε [[components]], τη χρήση του [[Virtual DOM]], και την [[declarative|δηλωτική]] προσέγγιση στην ανάπτυξη UI.
 
-Jordan’s contribution helped shift the industry toward more [[declarative]], [[reactive]] UI design patterns.
+Η δημιουργία της [[React]] σηματοδότησε μια αλλαγή στον τρόπο με τον οποίο οι developers προσεγγίζουν το [[frontend]] development, δίνοντας έμφαση σε UI βασισμένο στο [[state]] και επαναχρησιμοποιούμενα [[components]].
