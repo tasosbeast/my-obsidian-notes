@@ -1,3 +1,0 @@
-In **Vanilla [[JavaScript]]**, developers need to manually select and update [[DOM]] elements using [[methods]] like `document.querySelector`. This process becomes repetitive and error-prone in [[complex]] [[User Interface (UI)|UIs]].
-
-In contrast, **[[React]]** uses **[[JSX]]**, a [[declarative]] syntax that abstracts away direct [[DOM manipulation]]. [[JSX]] allows developers to describe the desired [[User Interface (UI)|UI]] [[state]], and [[React]] handles the creation and update of [[DOM]] elements under the hood. This improves developer efficiency, reduces [[complex|complexity]], and helps [[Συντήρηση]] a [[consistent]] and [[responsive]] [[User Interface (UI)]].

@@ -154,12 +154,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(S3)(9) Γιατί δεν χρησιμοποιούμε Vanilla JavaScript σε μεγάλα projects.md",
+                "file": "(S3)(10)React automates UI updates based on data changes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(S3)(9) Γιατί δεν χρησιμοποιούμε Vanilla JavaScript σε μεγάλα projects"
+              "title": "(S3)(10)React automates UI updates based on data changes"
             }
           },
           {
@@ -288,12 +288,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(S3)(9) Γιατί δεν χρησιμοποιούμε Vanilla JavaScript σε μεγάλα projects.md",
+                "file": "(S3)(10)React automates UI updates based on data changes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from (S3)(9) Γιατί δεν χρησιμοποιούμε Vanilla JavaScript σε μεγάλα projects"
+              "title": "Outgoing links from (S3)(10)React automates UI updates based on data changes"
             }
           },
           {
@@ -317,13 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(S3)(9) Γιατί δεν χρησιμοποιούμε Vanilla JavaScript σε μεγάλα projects.md",
+                "file": "(S3)(10)React automates UI updates based on data changes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (S3)(9) Γιατί δεν χρησιμοποιούμε Vanilla JavaScript σε μεγάλα projects"
+              "title": "Outline of (S3)(10)React automates UI updates based on data changes"
             }
           },
           {
@@ -356,16 +356,17 @@
   },
   "active": "71aeafa751b5008e",
   "lastOpenFiles": [
+    "(S3)(10)Το JSX εξαλείφει την ανάγκη για άμεσο DOM manipulation.md",
     "(S3)(9) Το React αυτοματοποιεί τις ενημερώσεις του UI βάσει αλλαγών στα δεδομένα.md",
-    "Συντήρηση.md",
     "(S3)(9) Τα frameworks προωθούν τη συνέπεια και τη δομή μέσα σε ομάδες.md",
+    "(S3)(9) Γιατί δεν χρησιμοποιούμε Vanilla JavaScript σε μεγάλα projects.md",
+    "Συντήρηση.md",
     "declarative.md",
     "(S4)(18)Destructuring in JavaScript.md",
     "Untitled.md",
     "(S3)(14)React project setup CRA vs Vite.md",
     "(S3)(13)React core vs rendering layer.md",
     "tooling.md",
-    "(S3)(9) Γιατί δεν χρησιμοποιούμε Vanilla JavaScript σε μεγάλα projects.md",
     "responsive.md",
     "(S3)(10)React automates UI updates based on data changes.md",
     "(S3)(13)id=root is the standard mount point in React.md",
@@ -376,7 +377,6 @@
     "(S3)(11)React excels at rendering and syncing UI with state.md",
     "(S3)(11)Data = State.md",
     "(S3)(10)React keeps the UI in sync with application data.md",
-    "(S3)(10)JSX abstracts away manual DOM manipulation.md",
     "methods.md",
     "internal state.md",
     "reusability.md",
