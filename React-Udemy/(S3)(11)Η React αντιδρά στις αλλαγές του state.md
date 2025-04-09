@@ -1,5 +1,5 @@
-In [[React]], when the [[state]] (i.e., the current [[data]]) of a [[components|component]] changes, [[React]] **automatically re-renders** that component to reflect the new [[state]] in the [[User Interface (UI)]]. This behavior is part of [[React]]’s [[reactive]] architecture.
+Στη [[React]], όταν αλλάζει το [[state]] (δηλαδή τα τρέχοντα [[data]]) ενός [[components|component]], η [[React]] ενημερώνει αυτόματα  το component ώστε το [[User Interface (UI)|UI]] να αντικατοπτρίζει το νέο [[state]]. Αυτή η συμπεριφορά αποτελεί μέρος της [[reactive]] αρχιτεκτονικής της [[React]].
 
-[[React]]'s rendering is optimized through the [[Virtual DOM]], ensuring only the necessary parts of the [[DOM]] are updated. This process helps [[Συντήρηση]] a [[predictable]] and [[consistent]] UI without manual intervention.
+Το rendering στη [[React]] είναι βελτιστοποιημένο μέσω του [[Virtual DOM]], διασφαλίζοντας ότι ενημερώνονται μόνο τα απαραίτητα τμήματα του [[DOM]]. Αυτή η διαδικασία βοηθά στη [[Συντήρηση|συντήρηση]] ενός προβλέψιμου και [[consistent|συνεπούς]] UI χωρίς χειροκίνητες επεμβάσεις.
 
-This principle is core to building dynamic interfaces in [[React]] — changes in [[state]] lead directly to changes in what the user sees.
+Αυτή η αρχή είναι θεμελιώδης για την κατασκευή **δια δραστικών UI** στη [[React]] — οι αλλαγές στο [[state]] οδηγούν άμεσα σε αλλαγές σε αυτό που βλέπει ο χρήστης. 
