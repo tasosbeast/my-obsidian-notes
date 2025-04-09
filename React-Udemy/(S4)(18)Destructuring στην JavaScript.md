@@ -7,7 +7,7 @@
 
 ### 🔧 Object Destructuring
 
-Χρησιμοποιείται για να εξάγουμε ιδιότητες από ένα [[object]] με βάση τα ονόματα των properties.
+Χρησιμοποιείται για να εξάγουμε properties από ένα [[object]] με βάση τα ονόματα των properties.
 
 ```js
 const book = getBook(2); // παράδειγμα object
@@ -20,16 +20,16 @@ const author = book.author;
 const { title, author } = book;
 ```
 
-⚠️ Τα ονόματα των μεταβλητών **πρέπει να ταιριάζουν ακριβώς** με τα property names του object. Αν γράψεις `titles` αντί για `title`, θα πάρεις `undefined`.
+⚠️ Τα ονόματα των variables **πρέπει να ταιριάζουν ακριβώς** με τα property names του object. Αν γράψεις `titles` αντί για `title`, θα πάρεις `undefined`.
 
 Το object destructuring είναι ιδιαίτερα χρήσιμο όταν:
 
 - Θέλεις να έχεις πρόσβαση σε πολλές ιδιότητες ενός object
     
-- Εργάζεσαι με απαντήσεις από [[APIs|API]] (π.χ. `getBook()`)
+- Εργάζεσαι με responses από [[APIs|API]] (π.χ. `getBook()`)
     
 
-Μπορείς να εξάγεις και περισσότερες ιδιότητες ταυτόχρονα:
+Μπορείς να εξάγεις και περισσότερα properties ταυτόχρονα:
 
 ```js
 const { title, author, pages, publicationDate, genres, hasMovieAdaptation } = book;
@@ -39,7 +39,7 @@ const { title, author, pages, publicationDate, genres, hasMovieAdaptation } = bo
 
 ### 🔧 Array Destructuring
 
-Χρησιμοποιείται για να εξάγεις τιμές με βάση τη **θέση** τους μέσα σε ένα [[array]] (και όχι το όνομα).
+Χρησιμοποιείται για να εξάγεις values με βάση τη **θέση** τους μέσα σε ένα [[array]] (και όχι το όνομα).
 
 ```js
 const genres = book.genres;
@@ -56,7 +56,7 @@ const [primaryGenre, secondaryGenre] = genres;
 
 - Η σειρά των στοιχείων έχει σημασία (π.χ. ταξινομημένα [[data]])
     
-- Θέλεις μόνο τα πρώτα 1–2 στοιχεία του array
+- Θέλεις μόνο τα πρώτα 1–2 values του array
     
 
 ---
@@ -72,9 +72,5 @@ const [primaryGenre, secondaryGenre] = genres;
 
 ### ✅ Σύνοψη
 
-Το **destructuring** είναι καθαρή και ισχυρή σύνταξη στη [[JavaScript]], η οποία βελτιώνει τη [[readability|αναγνωσιμότητα]] του κώδικα και μειώνει τον επαναλαμβανόμενο κώδικα.  
+Το **destructuring** είναι καθαρή και ισχυρή σύνταξη στη [[JavaScript]], η οποία βελτιώνει τη αναγνωσιμότητα του κώδικα και μειώνει τον επαναλαμβανόμενο κώδικα.  
 Χρησιμοποιείται συχνά όταν χειριζόμαστε [[objects]] από [[functions]], [[APIs]] ή μεγάλα [[arrays]].
-
----
-
-Θες να το μετατρέψουμε και σε πλήρες markdown αρχείο έτοιμο για το vault σου;
