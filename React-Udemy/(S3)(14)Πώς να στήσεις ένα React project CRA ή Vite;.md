@@ -1,61 +1,60 @@
 
-When starting a new [[React]] project, there are several options for how to **set up the development environment**, depending on the goals (learning vs production).
+Όταν ξεκινάς ένα νέο [[React]] project, υπάρχουν διάφορες επιλογές για το **στήσιμο του development περιβάλλοντος**, ανάλογα με τον στόχο (μάθηση ή production).
 
 ---
 
 ### 🧱 [[Create-React-App (CRA)]]
 
-- A **starter kit** for React apps created years ago to simplify setup.
+- Ένα **starter kit** για [[application|εφαρμογές]] React, σχεδιασμένο πριν αρκετά χρόνια για να απλοποιεί το αρχικό στήσιμο.
     
-- Preconfigures tools like:
+- Περιλαμβάνει έτοιμη ρύθμιση εργαλείων όπως:
     
-    - `webpack` (for [[bundling|bundling]]) [[Webpack]]
+    - `webpack` (για [[bundling]]) [[Webpack]]
         
-    - `ESLint` ([[linting]]) [[ESLint]] 
+    - `ESLint` (για [[linting]]) [[ESLint]]
         
-    - `Prettier` (code formatting) [[Prettier]]
+    - `Prettier` (για μορφοποίηση κώδικα) [[Prettier]]
         
-    - `Jest` (testing) [[Jest]]
+    - `Jest` (για testing) [[Jest]]
         
-    - `Babel` (modern JavaScript) [[babel]]
+    - `Babel` (για χρήση σύγχρονου JavaScript) [[babel]]
         
-- ❗ CRA is **considered outdated** for production use because of slower performance and lack of innovation.
+- ❗ Το CRA θεωρείται **ξεπερασμένο** για χρήση σε production λόγω αργών επιδόσεων και έλλειψης καινοτομίας.
     
-- ✅ Still **ideal for learning**, tutorials, and quick prototypes.
+- ✅ Ωστόσο, είναι **ιδανικό για μάθηση**, tutorials και γρήγορα prototypes.
     
 
 ---
 
 ### ⚡ [[Vite]]
 
-- A **modern build [[tooling|tool]]** — faster than CRA and uses native [[ES modules|ES modules]].
+- Ένα **σύγχρονο build [[tooling|tool]]**, ταχύτερο από το CRA και με χρήση native [[ES modules]].
     
-- Offers:
+- Παρέχει:
     
     - **[[Hot Module Replacement (HMR)]]**
         
-    - Extremely fast [[bundling|bundling]] and page refresh
+    - Εξαιρετικά γρήγορο [[bundling]] και ανανέωση σελίδας
         
-    
-- 🧠 Better choice for **real-world apps** and [[large-scale projects]].
+- 🧠 Είναι καλύτερη επιλογή για **πραγματικές εφαρμογές** και large-scale projects.
     
 
 ---
 
-### 🧠 When to Use Each:
+### 🧠 Πότε να χρησιμοποιείς τι:
 
-|Purpose|Use|
+|Σκοπός|Επιλογή|
 |---|---|
-|Learning, tutorials|CRA|
-|Real projects|Vite|
+|Μάθηση / Tutorials|CRA|
+|Πραγματικά apps|Vite|
 
 ---
 
-### 📦 React [[Frameworks]] (e.g., [[Next.js]], [[Remix]])
+### 📦 React [[Frameworks]] (π.χ. [[Next.js]], [[Remix]])
 
-- [[React]] itself is a **UI [[libraries|library]]**, not a full framework.
+- Η [[React]] είναι μια **UI [[library]]**, όχι πλήρες framework.
     
-- [[Frameworks]] like [[Next.js]] and [[Remix]] add:
+- Frameworks όπως το [[Next.js]] και το [[Remix]] προσθέτουν:
     
     - [[Routing]]
         
@@ -63,12 +62,15 @@ When starting a new [[React]] project, there are several options for how to **se
         
     - [[Server-side rendering (SSR)]]
         
-- ⚠️ These are **not required for learning React** and are better suited for **production-ready apps**.
+- ⚠️ Αυτά **δεν χρειάζονται για να μάθεις React** και είναι πιο κατάλληλα για **εφαρμογές που βγαίνουν στην αγορά**.
     
-- Don’t start with frameworks unless you already understand the core of React.
+- Μην ξεκινήσεις με frameworks αν δεν έχεις κατανοήσει πρώτα τη βασική λογική της React.
     
 
 ---
 
-**Summary:**  
-Start learning React using [[Create-React-App (CRA)|Create-React-App]] to focus on the fundamentals without worrying about tooling. Move to [[Vite]] for more realistic, faster builds later. Ignore the push toward frameworks like [[Next.js]] until you’re confident in **vanilla React**.
+### ✅ Σύνοψη
+
+Ξεκίνα να μαθαίνεις [[React]] με το [[Create-React-App (CRA)|CRA]] ώστε να εστιάσεις στα βασικά χωρίς να σε απασχολεί το tooling.  
+Προχώρα στο [[Vite]] όταν θέλεις πιο ρεαλιστικά και γρήγορα builds.  
+Μην ανησυχείς ακόμα για frameworks όπως το [[Next.js]] μέχρι να νιώσεις άνετος με τη **vanilla React**.

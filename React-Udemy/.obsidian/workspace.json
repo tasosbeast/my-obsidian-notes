@@ -168,12 +168,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(S3)(14)Πώς να στήσεις ένα React project CRA ή Vite;.md",
+                "file": "(S4)(18)Destructuring στην JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(S3)(14)Πώς να στήσεις ένα React project CRA ή Vite;"
+              "title": "(S4)(18)Destructuring στην JavaScript"
             }
           },
           {
@@ -302,12 +302,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(S3)(14)Πώς να στήσεις ένα React project CRA ή Vite;.md",
+                "file": "(S4)(18)Destructuring στην JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from (S3)(14)Πώς να στήσεις ένα React project CRA ή Vite;"
+              "title": "Outgoing links from (S4)(18)Destructuring στην JavaScript"
             }
           },
           {
@@ -331,13 +331,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(S3)(14)Πώς να στήσεις ένα React project CRA ή Vite;.md",
+                "file": "(S4)(18)Destructuring στην JavaScript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (S3)(14)Πώς να στήσεις ένα React project CRA ή Vite;"
+              "title": "Outline of (S4)(18)Destructuring στην JavaScript"
             }
           },
           {
@@ -370,6 +370,7 @@
   },
   "active": "166f82481cadabd4",
   "lastOpenFiles": [
+    "(S3)(14)Πώς να στήσεις ένα React project CRA ή Vite;.md",
     "(S3)(13)React Πυρήνας vs Επίπεδο απόδοσης (rendering layer).md",
     "(S3)(13)Το id=root είναι το προεπιλεγμένο σημείο σύνδεσης (mount point) στη React.md",
     "(S3)(12)Ρύθμιση περιβάλλοντός για Development σε React.md",
@@ -386,9 +387,8 @@
     "(S3)(9) Γιατί δεν χρησιμοποιούμε Vanilla JavaScript σε μεγάλα projects.md",
     "Συντήρηση.md",
     "declarative.md",
-    "(S4)(18)Destructuring in JavaScript.md",
+    "(S4)(18)Destructuring στην JavaScript.md",
     "Untitled.md",
-    "(S3)(14)Πώς να στήσεις ένα React project CRA ή Vite;.md",
     "tooling.md",
     "responsive.md",
     "setInterval.md",
