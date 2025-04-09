@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(S3)(13)id=root is the standard mount point in React.md",
+                "file": "(S3)(13)React core vs rendering layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(S3)(13)id=root is the standard mount point in React"
+              "title": "(S3)(13)React core vs rendering layer"
             }
           },
           {
@@ -184,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "COMPO",
+                "query": "rendering engine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -309,18 +309,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b2b4c9a826ad19d",
+  "active": "68f1ebe30eb6f126",
   "lastOpenFiles": [
+    "(S3)(10)React automates UI updates based on data changes.md",
+    "(S3)(13)id=root is the standard mount point in React.md",
     "(S3)(13)React core vs rendering layer.md",
     "setInterval.md",
-    "(S3)(13)id=root is the standard mount point in React.md",
     "(S3)(12)React Development Environment Setup.md",
     "(S3)(11)React reacts to state changes.md",
     "(S3)(11)React origin.md",
     "(S3)(11)React excels at rendering and syncing UI with state.md",
     "(S3)(11)Data = State.md",
     "(S3)(10)React keeps the UI in sync with application data.md",
-    "(S3)(10)React automates UI updates based on data changes.md",
     "(S3)(10)JSX abstracts away manual DOM manipulation.md",
     "methods.md",
     "(S3)(9) Why we avoid Vanilla JavaScript in large projects.md",
