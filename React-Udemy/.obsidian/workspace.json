@@ -154,12 +154,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Συντήρηση.md",
+                "file": "(S3)(9) Γιατί δεν χρησιμοποιούμε Vanilla JavaScript σε μεγάλα projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Συντήρηση"
+              "title": "(S3)(9) Γιατί δεν χρησιμοποιούμε Vanilla JavaScript σε μεγάλα projects"
             }
           },
           {
@@ -288,12 +288,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Συντήρηση.md",
+                "file": "(S3)(9) Γιατί δεν χρησιμοποιούμε Vanilla JavaScript σε μεγάλα projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Συντήρηση"
+              "title": "Outgoing links from (S3)(9) Γιατί δεν χρησιμοποιούμε Vanilla JavaScript σε μεγάλα projects"
             }
           },
           {
@@ -317,13 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Συντήρηση.md",
+                "file": "(S3)(9) Γιατί δεν χρησιμοποιούμε Vanilla JavaScript σε μεγάλα projects.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Συντήρηση"
+              "title": "Outline of (S3)(9) Γιατί δεν χρησιμοποιούμε Vanilla JavaScript σε μεγάλα projects"
             }
           },
           {
@@ -357,6 +357,7 @@
   "active": "71aeafa751b5008e",
   "lastOpenFiles": [
     "(S3)(9) Το React αυτοματοποιεί τις ενημερώσεις του UI βάσει αλλαγών στα δεδομένα.md",
+    "Συντήρηση.md",
     "(S3)(9) Τα frameworks προωθούν τη συνέπεια και τη δομή μέσα σε ομάδες.md",
     "declarative.md",
     "(S4)(18)Destructuring in JavaScript.md",
@@ -364,7 +365,7 @@
     "(S3)(14)React project setup CRA vs Vite.md",
     "(S3)(13)React core vs rendering layer.md",
     "tooling.md",
-    "(S3)(9) Why we avoid Vanilla JavaScript in large projects.md",
+    "(S3)(9) Γιατί δεν χρησιμοποιούμε Vanilla JavaScript σε μεγάλα projects.md",
     "responsive.md",
     "(S3)(10)React automates UI updates based on data changes.md",
     "(S3)(13)id=root is the standard mount point in React.md",
@@ -381,7 +382,6 @@
     "reusability.md",
     "Redux.md",
     "readability.md",
-    "reactive.md",
     "global",
     "03 - A first look at React"
   ]
