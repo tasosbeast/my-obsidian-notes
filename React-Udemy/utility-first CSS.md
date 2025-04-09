@@ -10,7 +10,7 @@ Utility-first [[CSS]] promotes:
     
 - Minimal context-switching between markup and styles
     
-- Easier [[maintain|maintainability]] in [[components|component-based]] systems like [[React]]
+- Easier [[Συντήρηση|maintainability]] in [[components|component-based]] systems like [[React]]
     
 
 Critics argue it can lead to cluttered [[HTML]], but proponents value its productivity and design system alignment.

@@ -1,3 +1,3 @@
 **Tooling** refers to the set of software tools that assist in the development, testing, building, and maintenance of an [[application]]. In [[frontend]] development, common tools include bundlers (like [[Webpack]] or [[Vite]]), linters ([[ESLint]]), formatters ([[Prettier]]), testing [[frameworks]] ([[Jest]]), and [[development servers]].
 
-Good tooling improves developer experience, reduces human error, enforces standards, and helps large [[codebase|codebases]] stay [[maintain|maintainable]] and [[scale|scalable]]. Without proper tooling, [[large projects]] can become harder to work with, more [[prone to bugs]], and slower to develop.
+Good tooling improves developer experience, reduces human error, enforces standards, and helps large [[codebase|codebases]] stay [[Συντήρηση|maintainable]] and [[scale|scalable]]. Without proper tooling, [[large projects]] can become harder to work with, more [[prone to bugs]], and slower to develop.

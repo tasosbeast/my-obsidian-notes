@@ -1,3 +1,3 @@
 **Inconsistencies** occur when different parts of an [[application]] are out of sync — for example, when the [[User Interface (UI)]] does not accurately reflect the current [[state]] or [[data]]. In [[frontend]] development, inconsistencies often result from manual [[DOM manipulation]], poor [[state management]], or [[asynchronous]] logic that isn't handled properly.
 
-Such mismatches can confuse users, lead to [[bugs]], and make applications harder to [[maintain]]. Using [[reactive]] [[frameworks]] like [[React]] helps prevent inconsistencies by ensuring the UI updates automatically in response to changes in [[state]] or [[props]].
+Such mismatches can confuse users, lead to [[bugs]], and make applications harder to [[Συντήρηση]]. Using [[reactive]] [[frameworks]] like [[React]] helps prevent inconsistencies by ensuring the UI updates automatically in response to changes in [[state]] or [[props]].

@@ -1,3 +1,3 @@
 **[[React]]** automatically ensures that the [[User Interface (UI)]] stays in sync with the [[application]]’s [[data]]. This is achieved through its [[declarative]] and [[reactive]] model, where changes in [[state]] or [[props]] trigger updates to the UI without manual intervention.
 
-This behavior reduces the risk of [[inconsistencies]] between [[data]] and what the user sees, making the UI more [[predictable]] and easier to [[maintain]].
+This behavior reduces the risk of [[inconsistencies]] between [[data]] and what the user sees, making the UI more [[predictable]] and easier to [[Συντήρηση]].

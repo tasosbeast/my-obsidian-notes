@@ -1,3 +1,3 @@
 The **codebase** is the complete collection of source code that makes up a software project. In [[frontend]] development, a codebase typically includes UI [[components]], styles, logic, configuration files, and sometimes build tools.
 
-A healthy codebase is one that is easy to read, test, and modify. As a [[large projects|large project]] grows, the codebase can become [[complex]] and harder to manage if not organized well. Practices like modular design, clear [[structure]], and [[consistent]] conventions help [[maintain]] a clean and scalable codebase.
+A healthy codebase is one that is easy to read, test, and modify. As a [[large projects|large project]] grows, the codebase can become [[complex]] and harder to manage if not organized well. Practices like modular design, clear [[structure]], and [[consistent]] conventions help [[Συντήρηση]] a clean and scalable codebase.
