@@ -2,4 +2,4 @@
 
 In [[frontend]] development, HTML works alongside [[CSS]] (for styling) and [[JavaScript]] (for interactivity). While HTML defines _what_ is on the page, other technologies define _how_ it looks and behaves.
 
-Modern [[frameworks]] like [[React]] use [[JSX]], which resembles HTML, but allows for dynamic rendering of [[components]] based on [[application]] [[state]] and [[data]].
+Modern [[frameworks]] like [[React]] use [[JSX]], which resembles HTML, but allows for dynamic rendering of [[components]] based on [[εφαρμογή]] [[state]] and [[data]].

@@ -31,7 +31,3 @@
     
 - [[Responsive]] και [[consistent]] [[User Interface (UI)]]
     
-
----
-
-Θες να το προσθέσουμε στο vault ως σημείωση `Τι είναι τα APIs`;

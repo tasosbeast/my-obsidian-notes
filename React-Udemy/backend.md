@@ -1,2 +1,3 @@
-The **backend** is the part of an [[application]] that handles business logic, database operations, authentication, and [[APIs|API]] endpoints. It runs on a server and is not directly visible to the user.  
-The [[frontend]] communicates with the backend to fetch and send [[data]]. Together, they form a complete system — the [[frontend]] presents the interface, while the backend handles the behind-the-scenes operations.
+Το **backend** είναι το μέρος μιας [[εφαρμογή|εφαρμογής]] που διαχειρίζεται τη λογική του συστήματος (business logic), τις λειτουργίες βάσης δεδομένων, το authentication και τα endpoints των [[APIs|API]]. Εκτελείται στον server και **δεν είναι ορατό** απευθείας από τον χρήστη.
+
+Το [[frontend]] επικοινωνεί με το backend για να κάνει fetch και να στείλει [[data]]. Μαζί, δημιουργούν ένα πλήρες σύστημα — το [[frontend]] παρουσιάζει το περιβάλλον διεπαφής, ενώ το backend χειρίζεται ό,τι γίνεται “πίσω από τα φώτα”.

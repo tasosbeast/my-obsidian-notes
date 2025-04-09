@@ -1,4 +1,4 @@
 Code is considered **hard to read** when it lacks clarity, [[structure]], or [[consistent|consistency]]. In [[frontend]] projects — especially large ones — unreadable code makes it difficult for developers (including your future self) to understand what the code does, identify issues, or safely make changes.
 
 Common causes include poor naming, deeply nested logic, lack of comments, inconsistent formatting, and mixing concerns (e.g., logic, presentation, and [[data]] handling in one place).  
-Readable code is essential for [[Συντήρηση|maintainability]], collaboration, and reducing [[bugs]] over time.
+Readable code is essential for [[συντήρηση|maintainability]], collaboration, and reducing [[bugs]] over time.

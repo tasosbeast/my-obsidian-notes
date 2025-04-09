@@ -1,2 +1,2 @@
-The **User Interface (UI)** is the visual and interactive part of an [[application]] that users engage with. It includes elements like buttons, forms, menus, and visual layouts. A well-designed UI makes it easy for users to understand and navigate the system.  
+The **User Interface (UI)** is the visual and interactive part of an [[εφαρμογή]] that users engage with. It includes elements like buttons, forms, menus, and visual layouts. A well-designed UI makes it easy for users to understand and navigate the system.  
 In modern [[frontend]] development, the UI is often **[[declarative|declaratively]]** bound to the underlying [[data]], meaning that any change in [[data]] automatically updates the UI.

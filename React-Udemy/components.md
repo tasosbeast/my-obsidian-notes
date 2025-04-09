@@ -1,3 +1,3 @@
 In **[[React]]**, **components** are the fundamental building blocks of the [[User Interface (UI)]]. Each component represents a self-contained piece of the UI, such as a button, form, or layout section, and can manage its own [[state]] and behavior.
 
-Components promote [[modularity]], [[reusability]], and clear separation of concerns, allowing developers to build [[complex]] UIs by composing small, manageable units. This component-based architecture is one of [[React]]'s core strengths and contributes to [[Συντήρηση|maintainable]] and [[scale|scalable]] [[frontend]] applications.
+Components promote [[modularity]], [[reusability]], and clear separation of concerns, allowing developers to build [[complex]] UIs by composing small, manageable units. This component-based architecture is one of [[React]]'s core strengths and contributes to [[συντήρηση|maintainable]] and [[scale|scalable]] [[frontend]] applications.

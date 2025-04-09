@@ -1,3 +1,3 @@
-**Data** represents the information an [[application]] processes, displays, or manipulates. In the context of [[frontend]] development, data drives the [[User Interface (UI)]], meaning any change in data should be reflected in the UI to [[Συντήρηση]] a [[responsive]] and [[consistent]] user experience.
+**Data** represents the information an [[εφαρμογή]] processes, displays, or manipulates. In the context of [[frontend]] development, data drives the [[User Interface (UI)]], meaning any change in data should be reflected in the UI to [[συντήρηση]] a [[responsive]] and [[consistent]] user experience.
 
 Data can come from various sources, such as [[APIs]], user input, or local storage. Managing data effectively — especially its flow and transformation — is essential for building reliable and maintainable applications.

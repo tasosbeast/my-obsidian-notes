@@ -2,4 +2,4 @@
 
 In [[React]], reactivity is achieved through tools like `useState`, `useEffect` [[useState]][[useEffect]], and the component lifecycle. When [[data]] changes, [[React]] re-renders the necessary [[components]] using the [[Virtual DOM]] to reflect the new [[state]] in the UI.
 
-Reactive programming leads to more [[predictable|predictable]] and [[Συντήρηση|maintainable]] applications by reducing the need for [[imperative]] update logic.
+Reactive programming leads to more [[predictable|predictable]] and [[συντήρηση|maintainable]] applications by reducing the need for [[imperative]] update logic.

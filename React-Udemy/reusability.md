@@ -1,5 +1,5 @@
-**Reusability** refers to the ability to write code once and use it in multiple places without duplication. In [[frontend]] development — especially with [[React]] — reusability is achieved through [[components|component-based]] design, where self-contained [[components]] can be shared and composed across different parts of an [[application]].
+**Reusability** refers to the ability to write code once and use it in multiple places without duplication. In [[frontend]] development — especially with [[React]] — reusability is achieved through [[components|component-based]] design, where self-contained [[components]] can be shared and composed across different parts of an [[εφαρμογή]].
 
-Reusable [[components]] improve development speed, reduce [[complex|complexity]], and help [[Συντήρηση]] a [[consistent]] [[User Interface (UI)]]. [[reusability|Reusability]] also supports better [[Συντήρηση|maintainability]], as updates to shared [[components]] automatically propagate wherever they’re used.
+Reusable [[components]] improve development speed, reduce [[complex|complexity]], and help [[συντήρηση]] a [[consistent]] [[User Interface (UI)]]. [[reusability|Reusability]] also supports better [[συντήρηση|maintainability]], as updates to shared [[components]] automatically propagate wherever they’re used.
 
 Well-structured, reusable code follows principles like [[separation of concerns]], clear interfaces (via [[props]]), and [[predictable]] behavior.

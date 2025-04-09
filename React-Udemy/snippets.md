@@ -19,4 +19,4 @@ These snippets are usually added via the **User Snippets** setting in VS Code:
 3. Paste in the predefined snippet code
     
 
-Snippets improve speed, reduce typing, and help [[Συντήρηση]] [[consistent|consistent]] [[structure]] and syntax in projects.
+Snippets improve speed, reduce typing, and help [[συντήρηση]] [[consistent|consistent]] [[structure]] and syntax in projects.

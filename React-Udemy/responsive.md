@@ -1,3 +1,3 @@
-A **responsive** [[application]] or interface adapts immediately and appropriately to user interactions or changes in [[data]] or [[internal state]]. In [[frontend]] development, responsiveness ensures that the [[User Interface (UI)]] feels fast, fluid, and in sync with user expectations.
+A **responsive** [[εφαρμογή]] or interface adapts immediately and appropriately to user interactions or changes in [[data]] or [[internal state]]. In [[frontend]] development, responsiveness ensures that the [[User Interface (UI)]] feels fast, fluid, and in sync with user expectations.
 
 Responsiveness is not only about speed — it's also about feedback. A responsive UI provides clear visual or behavioral cues when something changes, which improves usability and user satisfaction.

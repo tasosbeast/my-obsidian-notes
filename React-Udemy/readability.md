@@ -1,4 +1,4 @@
-**Readability** refers to how easily a developer can understand a piece of code. In [[frontend]] development — and programming in general — high readability makes code easier to debug, modify, and [[Συντήρηση]].
+**Readability** refers to how easily a developer can understand a piece of code. In [[frontend]] development — and programming in general — high readability makes code easier to debug, modify, and [[συντήρηση]].
 
 Readable code uses clear naming conventions, [[consistent]] formatting, logical [[structure]], and avoids unnecessary [[complex|complexity]]. It often includes meaningful comments and avoids deeply nested logic or cryptic shortcuts.
 
