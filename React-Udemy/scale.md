@@ -1,3 +1,0 @@
-To **scale** a project means to grow or extend it — in terms of features, users, or code — without sacrificing performance, stability, or [[συντήρηση|maintainability]]. In [[frontend]] development, scaling often requires a solid [[codebase]] [[structure]], efficient [[state management]], and thoughtful architecture.
-
-A scalable [[frontend]] is modular, reusable, and adaptable. It allows teams to add new features or update existing ones with minimal disruption. Without planning for scale, a [[large projects| large project]] can quickly become [[complex]] and [[prone to bugs]].

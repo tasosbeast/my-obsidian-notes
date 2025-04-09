@@ -1,4 +1,4 @@
-**JavaScript** is a high-level, interpreted programming language primarily used to create dynamic and interactive content on [[webpage|webpages]]. Alongside [[HTML]] and [[CSS]], it forms the core trio of technologies in [[frontend]] development.
+**JavaScript** is a high-level, interpreted programming language primarily used to create dynamic and interactive content on [[ιστοσελίδα|webpages]]. Alongside [[HTML]] and [[CSS]], it forms the core trio of technologies in [[frontend]] development.
 
 JavaScript enables:
 

@@ -1,3 +1,0 @@
-**Large projects** involve a significant amount of code, features, and often multiple contributors. In the context of [[frontend]] development, large projects demand clear [[structure]], effective [[state management]], and maintainable code practices to avoid becoming [[complex]] and [[prone to bugs]].
-
-As projects grow, challenges like code duplication, inconsistent logic, and difficulty in onboarding new developers become more common. Choosing the right tools (e.g., [[frameworks]], [[libraries]]) and enforcing conventions becomes essential to ensure scalability and long-term [[συντήρηση|maintainability]].

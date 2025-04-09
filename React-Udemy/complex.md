@@ -1,3 +1,0 @@
-A system or [[codebase]] is considered **complex** when it becomes difficult to understand, reason about, or modify. In [[frontend]] development, complexity often arises from unmanaged [[state]], deeply nested [[components]], or lack of clear [[structure]] and separation of concerns.
-
-High complexity increases the risk of [[bugs]], slows down development, and makes collaboration harder. Reducing complexity is a key goal of good design, often achieved through modular code, reusable [[components]], and using [[frameworks]] that promote clarity and maintainability.

@@ -1,3 +1,0 @@
-A **consistent** user experience means that the behavior and appearance of an [[εφαρμογή]] remain [[predictable]] and uniform across different interactions and states. In [[frontend]] development, consistency ensures that users can rely on the [[User Interface (UI)]] to behave in expected ways, especially when the underlying [[data]] or [[internal state]] changes.
-
-Consistency builds trust and usability. It often involves maintaining layout stability, design patterns, and [[predictable]] interactions throughout the app.

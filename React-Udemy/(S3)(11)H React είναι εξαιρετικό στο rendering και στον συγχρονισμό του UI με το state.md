@@ -1,6 +1,6 @@
 Η **[[React]]** είναι ιδιαίτερα κατάλληλη για δύο βασικές λειτουργίες στο [[frontend]] development:
 
-1. **Rendering των [[components]] σε μια [[webpage|ιστοσελίδα]]** με βάση το τρέχον [[state]] και τα [[props]] — επιτρέποντας τη δημιουργία δυναμικών, [[components|component-based]] UI.
+1. **Rendering των [[components]] σε μια [[ιστοσελίδα|ιστοσελίδα]]** με βάση το τρέχον [[state]] και τα [[props]] — επιτρέποντας τη δημιουργία δυναμικών, [[components|component-based]] UI.
     
 2. **Διατήρηση του [[User Interface (UI)|UI]] συγχρονισμένο** με το [[state]], επαναποδίδοντας αυτόματα τα [[components]] όταν αλλάζει το [[state]].
     

@@ -1,3 +1,0 @@
-**Structure** refers to the way code is organized within a project. In [[frontend]] development, good structure makes it easier to understand, navigate, and [[συντήρηση]] a [[codebase]] — especially in [[large projects]].
-
-Clear structure includes separation of concerns (e.g., splitting logic, UI, and styling), [[consistent]] file organization, naming conventions, and modular component design. A well-structured project reduces [[complex|complexity]], prevents being [[prone to bugs]], and helps [[scale]] the application over time.
