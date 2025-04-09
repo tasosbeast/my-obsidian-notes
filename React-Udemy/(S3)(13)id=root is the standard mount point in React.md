@@ -21,7 +21,7 @@ import App from './App';
 ReactDOM.createRoot(document.getElementById('root')).render(<App />);
 ```
 
-Using `id="root"` is a **convention**, not a requirement — but it's widely adopted across the React ecosystem and [[tooling]].
+Using `id="root"` is a **convention**, not a requirement — but it's widely adopted across the [[React]] ecosystem and [[tooling]].
 
 ---
 
