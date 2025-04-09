@@ -1,0 +1,3 @@
+The **internal [[state]]** of an [[application]] represents the [[data]] it holds at a given moment, usually stored in memory. In [[frontend]] development, the [[User Interface (UI)]] should always reflect this internal [[state]]. When the [[state]] changes, the UI must update accordingly to ensure a [[consistent]] and [[responsive]] experience.
+
+[[Frameworks]] like [[React]] manage internal [[state]] through tools like `useState`, [[useState]] enabling [[reactive]] rendering tied to the [[application]]’s logic.

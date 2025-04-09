@@ -1,0 +1,3 @@
+In **Vanilla [[JavaScript]]**, developers must manually update the [[User Interface (UI)]] whenever the underlying [[data]] changes. This requires selecting [[DOM elements]], modifying their content, and ensuring everything stays in sync — a process that is both repetitive and error-prone.
+
+**[[React]]** automates this process through its [[reactive]] rendering system. When the [[state]] or [[props]] change, [[React]] automatically re-renders the affected [[components]], ensuring the [[User Interface (UI)|UI]] reflects the current [[data]]. This leads to a more [[consistent]] and [[maintain|maintainable]] approach to building interactive UIs.

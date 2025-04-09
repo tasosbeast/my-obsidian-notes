@@ -1,0 +1,2 @@
+The **backend** is the part of an [[application]] that handles business logic, database operations, authentication, and [[APIs|API]] endpoints. It runs on a server and is not directly visible to the user.  
+The [[frontend]] communicates with the backend to fetch and send [[data]]. Together, they form a complete system — the [[frontend]] presents the interface, while the backend handles the behind-the-scenes operations.

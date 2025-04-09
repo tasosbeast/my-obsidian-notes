@@ -1,0 +1,3 @@
+A **webpage** is a document that is rendered and displayed by a web browser. It is typically written in **[[HTML]]**, styled with **[[CSS]]**, and made interactive with **[[JavaScript]]**. In modern [[frontend]] development, webpages are often composed using [[components]] in [[frameworks]] like [[React]].
+
+A webpage may consist of static content or dynamically generated elements, depending on the underlying [[data]], [[state]], and user interactions. It serves as the core unit of the user experience in web applications, where the [[User Interface (UI)]] is presented and updated based on logic and design.

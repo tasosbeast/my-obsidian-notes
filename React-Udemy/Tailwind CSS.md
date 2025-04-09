@@ -1,0 +1,5 @@
+**Tailwind [[CSS]]** is a **[[utility-first CSS]]** [[CSS]] [[frameworks|framework]] that allows developers to build modern user interfaces using predefined, low-level utility classes directly in [[HTML]] or [[JSX]]. Instead of writing custom [[CSS]] rules, styles are composed by combining small, descriptive class names (e.g., `p-4`, `text-center`, `bg-blue-500`).
+
+Tailwind promotes **[[consistent|consistency]]**, faster development, and eliminates the need for custom class names or deeply nested styles. It fits especially well in [[components|component-based]] [[frameworks]] like [[React]], where styles are scoped and colocated with markup.
+
+Tailwind also offers features like **[[responsive]] design**, **dark mode**, and **design tokens**, making it powerful for building [[scale|scalable]] and customizable [[User Interface (UI)|UI]] systems.

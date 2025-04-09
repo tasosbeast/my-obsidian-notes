@@ -1,0 +1,1 @@
+A core responsibility of the [[frontend]] is to ensure that the [[User Interface (UI)]] reflects the current [[state]] of the [[data]]. Any change in [[data]] should be immediately visible in the UI. This creates a [[consistent]] and [[responsive]] experience for the user, where the interface acts as a real-time representation of the [[application]]'s [[internal state]].

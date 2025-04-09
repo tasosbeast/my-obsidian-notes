@@ -1,0 +1,3 @@
+The **frontend** is the part of a software [[application]] that users directly interact with — typically the [[User Interface (UI)]]. It is responsible for presenting [[data]], handling user input, and keeping the interface synchronized with the [[application]]'s [[state]]. Frontend development often involves technologies like **[[HTML]]**, **[[CSS]]**, and **[[JavaScript]]**, and is increasingly managed through [[frameworks]] like **[[React]]**, **[[Vue]]**, or **[[Svelte]]** to handle complexity and promote [[maintain|maintainability]].
+
+The frontend communicates with the **[[backend]]** to fetch or send [[data]], but its main concern is rendering a smooth, [[responsive]], and [[consistent]] experience for the end-user.
