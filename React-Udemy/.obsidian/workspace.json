@@ -149,6 +149,20 @@
             }
           },
           {
+            "id": "71aeafa751b5008e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "declarative.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "declarative"
+            }
+          },
+          {
             "id": "4f041457984b52b2",
             "type": "leaf",
             "state": {
@@ -163,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       },
       {
         "id": "464678a9d1022325",
@@ -274,12 +288,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "declarative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from declarative"
             }
           },
           {
@@ -303,13 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "declarative.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of declarative"
             }
           },
           {
@@ -340,15 +354,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "295da0946f00a67d",
+  "active": "71aeafa751b5008e",
   "lastOpenFiles": [
-    "(S3)(14)React project setup CRA vs Vite.md",
+    "(S3)(9) Τα frameworks προωθούν τη συνέπεια και τη δομή μέσα σε ομάδες.md",
+    "(S4)(18)Destructuring in JavaScript.md",
     "Untitled.md",
+    "(S3)(14)React project setup CRA vs Vite.md",
     "(S3)(13)React core vs rendering layer.md",
     "tooling.md",
     "(S3)(9) Why we avoid Vanilla JavaScript in large projects.md",
     "(S3)(9) Το React αυτοματοποιεί τις ενημερώσεις του UI βάσει αλλαγών στα δεδομένα.md",
-    "(S3)(9) Τα frameworks προωθούν τη συνέπεια και τη δομή μέσα σε ομάδες.md",
     "responsive.md",
     "(S3)(10)React automates UI updates based on data changes.md",
     "(S3)(13)id=root is the standard mount point in React.md",
@@ -367,7 +382,6 @@
     "readability.md",
     "reactive.md",
     "React.md",
-    "props.md",
     "global",
     "03 - A first look at React"
   ]
