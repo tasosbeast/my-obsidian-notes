@@ -1,7 +1,7 @@
 
 Σε μια τυπική [[React]] [[application|εφαρμογή]], το αρχείο [[HTML]] περιλαμβάνει ένα στοιχείο `<div>` με `id="root"`. Αυτό το στοιχείο χρησιμεύει ως το **mount point** για  όλη η δομή των [[components]]
 
-Η [[React]] χρησιμοποιεί τις μεθόδους `ReactDOM.createRoot()` ή `ReactDOM.render()` για να προσαρτήσει το κορυφαίο [[component]] (συνήθως το `<App />`) σε αυτό το div.
+Η [[React]] χρησιμοποιεί τις μεθόδους `ReactDOM.createRoot()` ή `ReactDOM.render()`  για να **τοποθετήσει** το κορυφαίο [[component]] μέσα στο `div`
 
 📄 Παράδειγμα στο `index.html`:
 
@@ -22,7 +22,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(<App />);
 ```
 
 Η χρήση του `id="root"` είναι μια **σύμβαση** (convention) και όχι απαίτηση — όμως υιοθετείται ευρέως στο React οικοσύστημα και στα εργαλεία [[tooling]] που το υποστηρίζουν.
-
----
-
-Θες να δημιουργήσουμε και ξεχωριστό σημείωμα για τα [[ReactDOM]], [[mounting]], ή το [[App component]];
