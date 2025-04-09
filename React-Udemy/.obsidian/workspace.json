@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(S3)(13)React core vs rendering layer.md",
+                "file": "(S3)(9) Το React αυτοματοποιεί τις ενημερώσεις του UI βάσει αλλαγών στα δεδομένα.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(S3)(13)React core vs rendering layer"
+              "title": "(S3)(9) Το React αυτοματοποιεί τις ενημερώσεις του UI βάσει αλλαγών στα δεδομένα"
             }
           },
           {
@@ -309,11 +309,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68f1ebe30eb6f126",
+  "active": "8b2b4c9a826ad19d",
   "lastOpenFiles": [
+    "(S3)(9) Τα frameworks προωθούν τη συνέπεια και τη δομή μέσα σε ομάδες.md",
+    "(S3)(9) Το React αυτοματοποιεί τις ενημερώσεις του UI βάσει αλλαγών στα δεδομένα.md",
+    "responsive.md",
+    "(S3)(13)React core vs rendering layer.md",
     "(S3)(10)React automates UI updates based on data changes.md",
     "(S3)(13)id=root is the standard mount point in React.md",
-    "(S3)(13)React core vs rendering layer.md",
     "setInterval.md",
     "(S3)(12)React Development Environment Setup.md",
     "(S3)(11)React reacts to state changes.md",
@@ -324,11 +327,8 @@
     "(S3)(10)JSX abstracts away manual DOM manipulation.md",
     "methods.md",
     "(S3)(9) Why we avoid Vanilla JavaScript in large projects.md",
-    "(S3)(9) Frontend keeps UI in sync with data.md",
     "internal state.md",
-    "(S3)(9) frameworks promote consistency and structure in teams.md",
     "reusability.md",
-    "responsive.md",
     "Redux.md",
     "readability.md",
     "reactive.md",
