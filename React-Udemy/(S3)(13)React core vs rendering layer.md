@@ -17,6 +17,6 @@ This contains the **core functionality** of [[React]]: component creation, [[hoo
 <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
 ```
 
-This provides the **rendering engine** that connects React with the [[DOM]]. It enables React components to be rendered into the page — typically into an element like [[(S3)(13)id=root is the standard mount point in React|id="root"]].
+This provides the **rendering engine** that connects React with the [[DOM]]. It enables React components to be rendered into the page — typically into an element like [[(S3)(13)Το id=root είναι το προεπιλεγμένο σημείο σύνδεσης (mount point) στη React|id="root"]].
 
 React is designed to be platform-agnostic. `react-dom` is one rendering target, while others like `react-native` are used for mobile.
