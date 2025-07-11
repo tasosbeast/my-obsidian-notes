@@ -181,21 +181,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "9c882068d4a2abfa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -351,7 +338,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c882068d4a2abfa",
+  "active": "f6869c48e234f5b0",
   "lastOpenFiles": [
     "ιστοσελίδα.md",
     "useEffect.md",
